@@ -1,0 +1,6 @@
+[submodule "BLEGate_Server"]
+	path = BLEGate_Server
+	url = https://github.com/mtsimmer/BLEGate_Server.git
+[submodule "BLEGate_Client"]
+	path = BLEGate_Client
+	url = https://github.com/mtsimmer/BLEGate_Client.git
